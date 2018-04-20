@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="title m-b-md">
-    Unicalavel
+    Acerca de Nosotros
 </div>
 
 <div class="links">
